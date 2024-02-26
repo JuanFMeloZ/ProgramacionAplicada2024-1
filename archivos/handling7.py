@@ -1,4 +1,4 @@
-f = open("demofile.txt", "r")
+f = open("Archivo.txt", "r")
 print(f.readline())
 f.close()
 
